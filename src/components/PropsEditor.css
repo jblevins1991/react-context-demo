@@ -1,0 +1,27 @@
+.props-editor {
+    flex: 1;
+}
+
+.props-editor-label {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.125rem;
+    display: block;
+    margin: .5rem 1rem;
+}
+
+.props-editor-input {
+    box-sizing: border-box;
+    display: block;
+    width: calc(100% - 2rem);
+    min-height: 400px;
+    padding: 1rem;
+    margin: .5rem 1rem;
+    resize: none;
+}
+
+.props-editor-hint {
+    font-family: 'Roboto', sans-serif;
+    font-size: .875rem;
+    display: block;
+    margin: .5rem 1rem;
+}
